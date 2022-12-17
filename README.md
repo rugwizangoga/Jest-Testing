@@ -70,13 +70,6 @@ Jest-Testing project is a basic javaScript testing that demonstrate the use of J
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">Local Storage</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
